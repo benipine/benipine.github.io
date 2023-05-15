@@ -1,5 +1,5 @@
 ---
-title: "[Dairy] Start Blog"
+title: "[Daily] Start Blog"
 categories:
   - Daily
 tags:
