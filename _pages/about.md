@@ -13,8 +13,10 @@ title: "About"
 
 Github Repo README.md 파일에 올려둔 내용을 아래에 올려둘게요 참고하세요!
 
-<br><br><br>
+<br><br>
+
 ***
+
 > # README
 <br>
 
